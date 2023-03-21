@@ -3,7 +3,7 @@
 	body {
 		margin: 0 auto;
 	}
-	ul ol {
+	ul, ol, li {
 		float: left;
 	}
 
