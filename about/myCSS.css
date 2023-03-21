@@ -3,6 +3,10 @@
 	body {
 		margin: 0 auto;
 	}
+	ul ol {
+		float: left;
+	}
+
 	.homePage {
 		background: #000000;
 	}
@@ -20,6 +24,7 @@
 		height: 80px;
 		
 	}
+	
 	.nav {
 		background: #E00BBD;
 		margin: 0px;
