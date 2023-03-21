@@ -3,7 +3,10 @@
 	body {
 		margin: 0 auto;
 	}
-	
+
+	h2, h4, ul, li {
+		margin-left: 50px;			
+	}
 
 	.homePage {
 		background: #000000;
@@ -11,6 +14,7 @@
 	.container {
 		width: 960px;
 		margin: 0 auto;
+		text-align: left;
 	}
 	.header {
 		background: #F70086;
