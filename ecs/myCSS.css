@@ -3,6 +3,10 @@
 	body {
 		margin: 0 auto;
 	}
+	img {
+		width: 350px;
+		height: 100px;
+	}
 	.homePage {
 		background: #000000;
 	}
